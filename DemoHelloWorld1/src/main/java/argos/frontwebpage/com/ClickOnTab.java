@@ -27,7 +27,7 @@ public class ClickOnTab {
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\dannyolu\\Desktop\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver1 = new ChromeDriver();
-		driver1.get("http://argos.co.uk");
+		driver1.get("http://www.pcworld.co.uk");
 		// sort this by creating a new class
 		// and the main class will invoke the new class.ie
 		// classobject.methodname.
